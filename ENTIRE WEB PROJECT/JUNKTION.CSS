@@ -1,0 +1,289 @@
+.burger
+{
+    max-width: 400px;
+    max-height: 400px;
+}
+.logo
+{
+    width: 250px;
+    height: 250px;
+}
+div
+{
+    width: auto;
+}
+a
+{
+    text-decoration: none;
+}
+.backcolor
+{
+    background-color:#ffe9ad ;
+    border:none;
+}
+.navlinks
+{
+    color:black;
+}
+.logsignlinks
+{
+
+    color:white;
+    border:2px solid white;
+    padding:10px 20px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.Headings
+{
+
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+h2.Headings
+{
+
+    font-size: 20px;
+}
+li
+{
+    display:inline;
+    padding:10px;
+}
+.menu-bar
+{
+    float:right;
+    padding-top:110px;
+    padding-bottom: 50px;
+    padding-right: 230px;
+}
+.headr
+{
+    background-color: #ffe9ad;
+}
+.column
+{
+    float:left;
+    width:33.33%;
+}
+.order-column
+{
+    float:left;
+    width:33.33%;
+}
+.reg-column
+{
+    float:left;
+}
+.col-w-15
+{
+    width:15%;
+}
+.col-w-80
+{
+    width:80%;
+}
+.container-one
+{
+    width:100%;
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto;
+}
+.container
+{
+    padding-right:80px;
+    padding-left:80px;
+}
+.cont-footer
+{
+    width: 100%;
+    background-color:#171615;
+    padding-top: 15px;
+    padding-bottom:15px;
+    padding-right:15px;
+    padding-left:15px;
+}
+.font-3
+{
+    font-size: 18px;
+    font-weight: 300;
+}
+.font-4
+{
+    font-size: 26px;
+    font-weight: 300;
+}
+.menuphotos
+{
+    width: 200px;
+    height:200px;
+}
+#bgpic
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(images/burger.jpg);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    color:white !important;
+    padding-top:70px;
+    padding-bottom: 70px;
+}
+#bgpic3
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(images/meat2.jpg);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    color:white !important;
+    padding-top:70px;
+    padding-bottom: 70px;
+
+}
+#bgpic4
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(images/meat1.jpg);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    color:white !important;
+    padding-top:70px;
+    padding-bottom: 70px;
+}
+#bgpic5
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(images/meat3.jpg);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    color:white !important;
+    padding-top:70px;
+    padding-bottom: 70px;
+}
+#bgpic6
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(images/extrapic2.jpg);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    color:white !important;
+    padding-top:70px;
+    padding-bottom: 70px;
+}
+#bgpic7
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(images/extrapic4.jpg);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    color:white !important;
+    padding-top:70px;
+    padding-bottom: 70px;
+}
+#logsign
+{
+   
+    text-align:center;
+    padding-top:150px;
+}
+#loginsign
+{
+    padding:15px;
+    text-align:center;
+    padding-top:100px;
+}
+.btn
+{
+    background-color:#2e2305;
+    color:white;
+    border:2px solid white;
+    padding:10px 20px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.btn:hover
+{
+    background-color:#ffe9ad;
+    color: black;
+}
+
+.logsignlinks:hover
+{
+    background-color:#ffe9ad;
+    color: black;
+}
+.benefits
+{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family:monospace;
+}
+.aboutj
+{
+    font-family:monospace;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#bgpic2
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(images/pizza.jpg);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    padding-top:70px;
+    padding-bottom: 70px;
+}
+#cont-benefits
+{
+    width:100%;
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color:#ffe9ad;
+}
+#footer-color
+{
+    color:white;
+    padding:2px;
+}
+.row
+{
+    width: 100%;
+    display: table;
+}
+.logo-footer
+{
+    width:250px;
+    height:250px;
+}
+#customerpics
+{
+    border-radius: 50%;
+    width: 100px;
+    height: 90px;
+}
+#inline
+{
+    display: inline;
+}
+input
+{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.form-cont
+{
+    padding-left: 25%;
+    padding-right: 25%;
+}

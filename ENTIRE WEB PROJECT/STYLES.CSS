@@ -1,0 +1,56 @@
+h1
+{
+    color:red;
+}
+h2
+{
+    color:green;
+}
+p
+{
+    color:blue;
+}
+li
+{
+    list-style-type:square;
+    color:blueviolet;
+}
+p,h1,h2
+{
+    font-family:monospace;
+    color:purple;
+}
+.one
+{
+    border:solid;
+    background-color:orange;
+}
+h1.one
+{
+    color:green;
+}
+li.one
+{
+    color:red;
+}
+li.two
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1+p 
+{
+    border:solid;
+    background-color:yellow;
+}
+p span
+{
+    font-size: xx-large;
+    border:solid;
+    background-color:aquamarine
+}
+body h1+p.special
+{
+    color:brown;
+    border:solid;
+    background-color:black;
+}

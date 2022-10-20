@@ -1,0 +1,106 @@
+a:visited
+{
+    color:green;
+
+}
+a:hover
+{
+    background-color:blue;
+    color:yellow;
+
+}
+a:active
+{
+    background-color: purple;
+    color:orange;
+
+}
+a[title]
+{
+    font-size: x-large;
+}
+a[href="register.html"]
+{
+    font-style: italic;
+}
+p::first-line
+{
+    background-color:yellow;
+    font-family:cursive;
+    font-style:italic;
+}
+p::first-letter
+{
+    color:blue;
+    background-color:green;
+    font-size: xx-large;
+}
+.bordertings
+{
+    border:4px solid green;
+    padding:2.5em;
+    font-size:xx-large;
+    background-color:blueviolet;
+}
+.bordermanenoz
+{
+    border:4px solid red;
+    padding:5em;
+}
+.a
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:green;
+}
+.b
+{
+    background-color:yellow;
+}
+.ab
+{
+    color:red;
+    border:2px solid orange;
+}
+li[class]
+{
+    font-size: x-large;
+}
+li[class="a"]
+{
+    font-style: italic;
+}
+.wrapper
+{
+    font-size:16px;
+    background-color: aquamarine;
+}
+/* rgb values and hsl values..read on them and implement them in your code*/
+.px
+{
+    Width:200px;
+    background-color: blue;
+    font-size: 2em;
+    margin-bottom:50px;
+    margin-left:50px;
+    margin-top:50px;
+    opacity:0.5;
+}
+.vw /*VIEW PORT*/
+{
+    width:10vw;
+    background-color: blue;
+    font-size: 3em;
+    margin-left:30px;
+    margin-bottom:30px;
+}
+
+.em
+{
+    width:10em;
+    background-color: blue;
+}
+
+div
+{
+    border:solid;
+}
